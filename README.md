@@ -5,7 +5,7 @@ Soy un estudiante de desarrollador de software de Málaga, España. Me encanta p
 ## Comandos de Terminal que he aprendido
 
 | Nombre del comando | Descripción |
-
+|---|---|
 | `ls` | Lista todos los archivos y directorios en el directorio actual. |
 | `cd` | Cambia el directorio actual a otro directorio. |
 | `pwd` | Muestra el camino del directorio actual. |
@@ -21,7 +21,7 @@ Soy un estudiante de desarrollador de software de Málaga, España. Me encanta p
 ## Comandos de Markdown útiles
 
 | Comando de Markdown | Descripción |
-
+|---|---|
 | `**texto**` | Hace que el texto esté en negrita. |
 | `*texto*` | Hace que el texto esté en cursiva. |
 | `texto` | Crea un enlace con el texto dado. |
