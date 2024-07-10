@@ -32,10 +32,12 @@ Soy un estudiante de desarrollador de software de Málaga, España. Me encanta p
 | `> texto` | Crea una cita en bloque. |
 | `- texto` | Crea una lista con viñetas. |
 | `1. texto` | Crea una lista numerada. |
+| ` ``` texto ``` ` | Crea un recuadro de texto |
 
 ## Contacto
 
-Puedes encontrarme en:
+*Puedes encontrarme en:*
 
+- E-mail: carlos.poemadara@gmail.com
 - LinkedIn: https://www.linkedin.com/in/carlosvergaragamez/
 - Twitter/X: https://twitter.com/Poe_Madara
