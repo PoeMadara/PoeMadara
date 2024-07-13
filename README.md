@@ -57,7 +57,6 @@ I am a software developer student from Malaga, Spain. I am passionate about prog
 | `ps`         | Report a snapshot of current processes. |
 | `kill`       | Send a signal to a process. |
 
-Aquí tienes la tabla completada con comandos Markdown adicionales:
 
 ## Markdown
 ### Useful Markdown Commands
