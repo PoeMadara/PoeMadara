@@ -7,6 +7,7 @@ I am a software developer student from Malaga, Spain. I am passionate about prog
 
 - Email: carlos.poemadara@gmail.com
 - LinkedIn: https://www.linkedin.com/in/carlosvergaragamez/
+  
 
 ## Terminal Commands I Have Learned
 
