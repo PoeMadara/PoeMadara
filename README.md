@@ -1,5 +1,5 @@
 # Hello! My name is Carlos, but you can call me PoeMadara 👋
-I am a software developer student from Malaga, Spain. I am passionate about programming, learning new technologies, and sharing knowledge with others. My goal is to build a career in the tech industry, focusing on Artificial Intelligence, Data Science, Mobile Applications and games. Currently, I am working on developing my skills in Java and Python.
+I am a software developer student from Malaga, Spain. I am passionate about programming, learning new technologies, and sharing knowledge with others. My goal is to build a career in the tech industry, focusing on Artificial Intelligence, Data Science, Mobile Applications and Games. Currently, I am working on developing my skills in Java and Python.
 
 ## Contact
 
