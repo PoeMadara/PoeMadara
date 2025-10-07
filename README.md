@@ -21,21 +21,24 @@ Beyond algorithms, I also **conduct AI workshops** for Spanish and international
 
 ---
 
+
 ## 🛠️ Key Technology Stack
 
 My stack is a blend of cutting-edge tools for AI, robust frameworks for full-stack development, and powerful data engineering solutions.
 
 ### Artificial Intelligence & Machine Learning
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
 ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
 ![](https://img.shields.io/badge/LangChain-22C55E?style=flat&logo=chainlink&logoColor=white)
 ![](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Hugging_Face-FFD21C?style=flat&logo=huggingface&logoColor=black)
 ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-315DB6?style=flat&logo=matplotlib&logoColor=white)
+![](https://img.shields.io/badge/Seaborn-4378BF?style=flat&logo=seaborn&logoColor=white)
 
 ### Data Engineering & Business Intelligence
 ![](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
@@ -44,6 +47,7 @@ My stack is a blend of cutting-edge tools for AI, robust frameworks for full-sta
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![](https://img.shields.io/badge/ETL-6B6B6B?style=flat&logo=githubactions&logoColor=white) 
+![](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ### Backend, Cloud & DevOps
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -54,6 +58,7 @@ My stack is a blend of cutting-edge tools for AI, robust frameworks for full-sta
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Frontend & Game Development
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
