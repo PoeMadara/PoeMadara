@@ -135,7 +135,8 @@ A dedicated repository showcasing my experience as a **Co-Founder and Game Devel
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Contact me!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvergaragamez/)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.poemadara@gmail.com)
+> *Linkedin:* https://www.linkedin.com/in/carlosvergaragamez/ <br>
+> *Email:* carlos.poemadara@gmail.com
+
