@@ -78,13 +78,14 @@ My work focuses on building functional systems. If you are interested in **AI En
 A cutting-edge system that combines Large Language Models (LLMs) with interactive 3D graphics, using an AI agent orchestration architecture.
 
 * **Stack:** Python, **Gemini API**, Ollama Mistral, Model–Context–Protocol (MCP), Flask, Three.js, OpenCV.
-* **Click the image to watch the YouTube video!**
+* **Click on the GIF to watch the YouTube video!**
 
 <p align="left">
     <a href="https://www.youtube.com/watch?v=hfBQZ5cOjtA">
-        <img src="https://img.youtube.com/vi/hfBQZ5cOjtA/0.jpg" alt="Video Demo 3D Multi-Agent Assistant" width="500px">
+        <img src="https://github.com/user-attachments/assets/e32ff892-1a95-4fb6-9a05-229cad651c1b" alt="Video Demo 3D Multi-Agent Assistant" width="500px">
     </a>
 </p>
+
 
 ### 2. Enterprise Resource Planning System (ERP)
 
