@@ -96,6 +96,7 @@ A **Full Stack** solution for business management that integrates generative AI 
 
 
 <p align="left">
+    <a href="https://github.com/PoeMadara/nextjs-erp-system">
     <img src="https://github.com/user-attachments/assets/6a9c1177-d0a4-4d94-9e0e-2643a3b0763a" alt="ERP System Video/GIF" width="500">
 </p>
 
@@ -108,6 +109,7 @@ A Data Science project focused on the analysis and prediction of energy consumpt
 * **Repository:** [Sustainable-Energy-Analysis-Platform](https://github.com/PoeMadara/Sustainable-Energy-Analysis-Platform)
 
 <p align="left">
+    <a href="https://github.com/PoeMadara/Sustainable-Energy-Analysis-Platform">
     <img src="https://github.com/user-attachments/assets/2a74addd-9b7e-403c-8d78-ca3bcb411d4e" alt="SEAP Quick Overview GIF" width="500px">
 </p>
 
@@ -136,7 +138,7 @@ A dedicated repository showcasing my experience as a **Co-Founder and Game Devel
 
 ---
 
-### 🌐 Contact me!
+### 🌐 Contact
 
 > *Linkedin:* https://www.linkedin.com/in/carlosvergaragamez/ <br>
 > *Email:* carlos.poemadara@gmail.com
