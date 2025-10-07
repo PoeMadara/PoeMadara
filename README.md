@@ -8,7 +8,7 @@
 
 I am an **AI Engineer and Data Scientist** dedicated to **Deep Learning**, **Machine Learning**, and **Data Automation (ETL)**. My career pivot was driven by a passion for building intelligent solutions, leveraging my foundation in **problem-solving** and **critical thinking**.
 
-Beyond algorithms, I am an **AI educator** for spanish and international audiences and a **Co-Founder & Video Game Developer**, applying my programming and AI skills to create dynamic gaming experiences.
+Beyond algorithms, I also **conduct AI workshops** for Spanish and international audiences, and I am a **Co-Founder & Video Game Developer**, applying my programming and AI skills to create dynamic gaming experiences.
 
 
 ---
