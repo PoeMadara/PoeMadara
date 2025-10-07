@@ -1,93 +1,129 @@
-# Hello! My name is Carlos, but you can call me PoeMadara 👋
-I am a software developer student from Malaga, Spain. I am passionate about programming, learning new technologies, and sharing knowledge with others. My goal is to build a career in the tech industry, focusing on Artificial Intelligence, Data Science, Mobile Applications and Games. Currently, I am working on developing my skills in Java and Python.
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/3fcaef75-59b3-4b51-b517-e5f60c121efe" alt="Carlos Vergara" width="400px">
+</p>
 
-## Contact
+# <p align="center">Carlos Vergara Gámez: AI Engineer | Data Scientist</p>
 
-*You can find me at:*
+**"From Hospitality to High-Tech: I specialize in transforming complex data into smart, automated systems."**
 
-- Email: carlos.poemadara@gmail.com
-- LinkedIn: https://www.linkedin.com/in/carlosvergaragamez/
-  
+I am an **AI Engineer and Data Scientist** dedicated to **Deep Learning**, **Machine Learning**, and **Data Automation (ETL)**. My career pivot was driven by a passion for building intelligent solutions, leveraging my foundation in **problem-solving** and **critical thinking**.
 
-## Terminal Commands I Have Learned
-
-### Git Commands:
-
-| Command name      | Description |
-|-------------------|-------------|
-| `git init`        | Initialize a new Git repository. |
-| `git clone`       | Clone a repository into a new directory. |
-| `git add`         | Add file contents to the index. |
-| `git commit`      | Record changes to the repository. |
-| `git status`      | Show the working tree status. |
-| `git diff`        | Show changes between commits, commit and working tree, etc. |
-| `git log`         | Show commit logs. |
-| `git pull`        | Fetch from and integrate with another repository or a local branch. |
-| `git push`        | Update remote refs along with associated objects. |
-| `git branch`      | List, create, or delete branches. |
-| `git checkout`    | Switch branches or restore working tree files. |
-| `git merge`       | Join two or more development histories together. |
-| `git rebase`      | Reapply commits on top of another base tip. |
-| `git tag`         | Create, list, delete or verify a tag object signed with GPG. |
-| `git remote`      | Manage set of tracked repositories. |
-| `git fetch`       | Download objects and refs from another repository. |
-| `git stash`       | Stash the changes in a dirty working directory away. |
-| `git reset`       | Reset current HEAD to the specified state. |
-| `git rm`          | Remove files from the working tree and from the index. |
-| `git mv`          | Move or rename a file, a directory, or a symlink. |
-
-### Others Commands:
-
-| Command name | Description |
-|--------------|-------------|
-| `ls`         | List directory contents. |
-| `cd`         | Change directory. |
-| `pwd`        | Print name of current/working directory. |
-| `mkdir`      | Make directories. |
-| `rm`         | Remove files or directories. |
-| `cp`         | Copy files and directories. |
-| `mv`         | Move (rename) files. |
-| `touch`      | Change file timestamps or create empty files. |
-| `cat`        | Concatenate and display files. |
-| `echo`       | Display a line of text/string on standard output. |
-| `grep`       | Print lines matching a pattern. |
-| `chmod`      | Change file modes or Access Control Lists. |
-| `chown`      | Change file owner and group. |
-| `tar`        | Manipulate tape archives. |
-| `gzip`       | Compress files. |
-| `curl`       | Transfer data from or to a server. |
-| `wget`       | Non-interactive network downloader. |
-| `ssh`        | OpenSSH SSH client (remote login program). |
-| `scp`        | Secure copy (remote file copy program). |
-| `ping`       | Send ICMP ECHO_REQUEST to network hosts. |
-| `traceroute` | Print the route packets take to network host. |
-| `top`        | Display Linux tasks. |
-| `ps`         | Report a snapshot of current processes. |
-| `kill`       | Send a signal to a process. |
+Beyond algorithms, I am an **AI educator** for spanish and international audiences and a **Co-Founder & Video Game Developer**, applying my programming and AI skills to create dynamic gaming experiences.
 
 
-## Markdown
-### Useful Markdown Commands
+---
 
-| Markdown Command | Description |
-|---|---|
-| `**text**` | Makes the text bold. |
-| `*text*` | Makes the text italic. |
-| `[text](url)` | Create a link with the given text. |
-| `![text](url)` | Insert an image with the text given as a description. |
-| `# text` | Create a level 1 header. |
-| `## text` | Create a level 2 header. |
-| `### text` | Create a level 3 header. |
-| `#### text` | Create a level 4 header. |
-| `##### text` | Create a level 5 header. |
-| `###### text` | Create a level 6 header. |
-| `~~text~~` | Cross out the text. |
-| `> text` | Create a block quote. |
-| `- text` | Create a bulleted list item. |
-| `1. text` | Create a numbered list item. |
-| `* [ ] text` | Create a task list item (checkbox). |
-| ` ``` text ``` ` | Create a code block. |
-| `---` | Create a horizontal rule. |
-| `***` | Create a horizontal rule. |
-| `| column1 | column2 |` | Create a table. |
+### 🌐 Connect With Me
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvergaragamez/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.poemadara@gmail.com)
+
+---
+
+## 🛠️ Key Technology Stack
+
+My stack is a blend of cutting-edge tools for AI and robust frameworks for full-stack development and data engineering.
+
+### Artificial Intelligence & Machine Learning
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/LangChain-22C55E?style=flat&logo=chainlink&logoColor=white)
+![](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Hugging_Face-FFD21C?style=flat&logo=huggingface&logoColor=black)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+### Backend, Cloud & DevOps
+![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat&logo=amazonsagemaker&logoColor=white)
+![](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Frontend & Game Development
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
+---
+
+## 💡 Recent Projects (Data, AI & Automation)
+
+My work focuses on building functional systems. If you are interested in **AI Engineering, Multi-Agent Systems, or Deep Learning**, I invite you to check out these projects:
+
+### 1. Multi-Agent 3D Assistant (Video Demo)
+
+A cutting-edge system that combines Large Language Models (LLMs) with interactive 3D graphics, using an AI agent orchestration architecture.
+
+* **Stack:** Python, **Gemini API**, Ollama Mistral, Model–Context–Protocol (MCP), Flask, Three.js, OpenCV.
+* **Click the image to watch the YouTube video!**
+
+<p align="left">
+    <a href="https://www.youtube.com/watch?v=hfBQZ5cOjtA">
+        <img src="https://img.youtube.com/vi/hfBQZ5cOjtA/0.jpg" alt="Video Demo 3D Multi-Agent Assistant" width="500px">
+    </a>
+</p>
+
+### 2. Enterprise Resource Planning System (ERP)
+
+A **Full Stack** solution for business management that integrates generative AI capabilities for intelligent resource handling.
+
+* **Stack:** TypeScript, Next.js, React, Node.js, **Gemini API**, GenKit, Firebase, Tailwind CSS.
+* **Repository:** [nextjs-erp-system](https://github.com/PoeMadara/nextjs-erp-system)
+
+
+<p align="left">
+    <img src="https://github.com/user-attachments/assets/6a9c1177-d0a4-4d94-9e0e-2643a3b0763a" alt="ERP System Video/GIF" width="500">
+</p>
+
+
+### 3. Sustainable Energy Analysis Platform “SEAP”
+
+A Data Science project focused on the analysis and prediction of energy consumption using Machine Learning and Deep Learning.
+
+* **Stack:** Python, Machine Learning (Random Forest), Deep Learning (RNN), Keras, TensorFlow, Pandas, Folium.
+* **Repository:** [Sustainable-Energy-Analysis-Platform](https://github.com/PoeMadara/Sustainable-Energy-Analysis-Platform)
+
+<p align="left">
+    <img src="https://github.com/user-attachments/assets/2a74addd-9b7e-403c-8d78-ca3bcb411d4e" alt="SEAP Quick Overview GIF" width="500px">
+</p>
+
+---
+
+### 🎮 Additional Experience: Video Game Development
+
+As a **Co-Founder and Video Game Developer** at Crazy Devs 8 (Oct. 2023 - Feb. 2025), I applied my technical skills in a creative environment.
+
+* **Technical Leadership:** Led a multidisciplinary team, overseeing project development.
+* **Applied AI:** Implemented **enemy AI** with dynamic behaviors using C#.
+* **Graphic Development:** Used **Blender** for 3D modeling and animation, and participated in UI/UX design.
+* **Featured Project:** Contributed to the development of the video game *Peach City - Anti-MálagaJam18* (Unity), demonstrating the ability to work under pressure in game jams.
+
+#### 🕹️ My Games Portfolio
+
+A dedicated repository showcasing my experience as a **Co-Founder and Game Developer**, where I applied C# and Unity to create immersive and engaging experiences.
+
+* **Repository:** [PoeMadara/my-games](https://github.com/PoeMadara/my-games)
+
+<p align="left">
+    <a href="https://github.com/PoeMadara/my-games">
+        <img src="https://github.com/user-attachments/assets/6e8f4c23-985f-46e6-a332-84af12ca5e8d" alt="My Games Portfolio GIF/Image" width="500">
+    </a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvergaragamez/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.poemadara@gmail.com)
