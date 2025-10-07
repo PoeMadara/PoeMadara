@@ -18,11 +18,12 @@ Beyond algorithms, I am an **AI educator** for spanish and international audienc
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvergaragamez/)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.poemadara@gmail.com)
 
+
 ---
 
 ## 🛠️ Key Technology Stack
 
-My stack is a blend of cutting-edge tools for AI and robust frameworks for full-stack development and data engineering.
+My stack is a blend of cutting-edge tools for AI, robust frameworks for full-stack development, and powerful data engineering solutions.
 
 ### Artificial Intelligence & Machine Learning
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -36,14 +37,20 @@ My stack is a blend of cutting-edge tools for AI and robust frameworks for full-
 ![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
+### Data Engineering & Business Intelligence
+![](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/ETL-6B6B6B?style=flat&logo=githubactions&logoColor=white) 
+
 ### Backend, Cloud & DevOps
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat&logo=amazonsagemaker&logoColor=white)
 ![](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Frontend & Game Development
