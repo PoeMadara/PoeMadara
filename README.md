@@ -77,7 +77,7 @@ My work focuses on building functional systems. If you are interested in **AI En
 
 A cutting-edge system that combines Large Language Models (LLMs) with interactive 3D graphics, using an AI agent orchestration architecture.
 
-* **Stack:** Python, **Gemini API**, Ollama Mistral, Model–Context–Protocol (MCP), Flask, Three.js, OpenCV.
+* **Stack:** Python, Gemini API, Ollama Mistral, Model–Context–Protocol (MCP), LangChain, Flask, Three.js.
 * **Click on the GIF to watch the YouTube video!**
 
 <p align="left">
@@ -91,7 +91,7 @@ A cutting-edge system that combines Large Language Models (LLMs) with interactiv
 
 A **Full Stack** solution for business management that integrates generative AI capabilities for intelligent resource handling.
 
-* **Stack:** TypeScript, Next.js, React, Node.js, **Gemini API**, GenKit, Firebase, Tailwind CSS.
+* **Stack:** TypeScript, Next.js, React, Node.js, Gemini API, GenKit, Firebase, Tailwind CSS.
 * **Repository:** [nextjs-erp-system](https://github.com/PoeMadara/nextjs-erp-system)
 
 
@@ -105,7 +105,7 @@ A **Full Stack** solution for business management that integrates generative AI 
 
 A Data Science project focused on the analysis and prediction of energy consumption using Machine Learning and Deep Learning.
 
-* **Stack:** Python, Machine Learning (Random Forest), Deep Learning (RNN), Keras, TensorFlow, Pandas, Folium.
+* **Stack:** Python, Machine Learning (Random Forest), Deep Learning (RNN), Keras, TensorFlow, Pandas, Numpy Seaborn, Matplotlib, Folium.
 * **Repository:** [Sustainable-Energy-Analysis-Platform](https://github.com/PoeMadara/Sustainable-Energy-Analysis-Platform)
 
 <p align="left">
