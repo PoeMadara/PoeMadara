@@ -77,7 +77,7 @@ My work focuses on building functional systems. If you are interested in **AI En
 
 A cutting-edge system that combines Large Language Models (LLMs) with interactive 3D graphics, using an AI agent orchestration architecture.
 
-* **Stack:** Python, Gemini API, Ollama Mistral, Model–Context–Protocol (MCP), LangChain, Flask, Three.js.
+* **Stack:** Python, JavaScript, Gemini API, Ollama Mistral, Model–Context–Protocol (MCP), LangChain, Flask, Three.js.
 * **Click on the GIF to watch the YouTube video!**
 
 <p align="left">
