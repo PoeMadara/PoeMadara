@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/3fcaef75-59b3-4b51-b517-e5f60c121efe" alt="Carlos Vergara" width="400px">
+    <img width="600" height="450" alt="Resilience" src="https://github.com/user-attachments/assets/6208d1d5-bdda-4b31-b064-ef1667bb1ef0" />
 </p>
+
 
 # <p align="center">Carlos Vergara Gámez: AI Engineer | Data Scientist</p>
 
