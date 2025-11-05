@@ -2,16 +2,13 @@
     <img width="450" height="350" alt="Resilience" src="https://github.com/user-attachments/assets/4721c0cd-e6fc-4e98-9213-9ebdc3195781" />
 </p>
 
-
-
 # <p align="center">Carlos Vergara Gámez: AI Data Engineer</p>
 
-**"From Hospitality to High-Tech: I specialize in transforming complex data into smart, automated systems."**
+*"From Hospitality to High-Tech: I build intelligent, cloud-ready systems that combine automation, data, and generative AI."*
 
-I am a **Python Developer** dedicated to **Deep Learning**, **Machine Learning**, and **Data Automation (ETL)**. My career pivot was driven by a passion for building intelligent solutions, leveraging my foundation in **problem-solving** and **critical thinking**.
+I am a **Python Developer** dedicated to **Deep Learning**, **Machine Learning**, and **Data Automation (ETL)**. My career pivot was driven by a passion for building intelligent solutions, leveraging my foundation in **problem-solving** and **critical thinking**. My background blends **data engineering, model deployment, and cloud integration** transforming complex information into scalable, intelligent systems.
 
-Beyond algorithms, I also **conduct AI workshops** for Spanish and international audiences, and I am a **Co-Founder & Video Game Developer**, applying my programming and AI skills to create dynamic gaming experiences.
-
+Beyond algorithms, I **conduct AI workshops** for international audiences and am the **Co-Founder of Crazy Devs 8**, where I merge AI with game development, 3D design, and procedural creativity.
 
 ---
 
@@ -20,61 +17,83 @@ Beyond algorithms, I also **conduct AI workshops** for Spanish and international
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvergaragamez/)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.poemadara@gmail.com)
 
-
 ---
 
+## 🛠️ Technical Stack
 
-## 🛠️ Key Technology Stack
+My current stack aligns with modern AI and Data Engineering pipelines, combining **GenAI**, **AWS Cloud**, and **Full-Stack** development tools.
 
-My stack is a blend of cutting-edge tools for AI, robust frameworks for full-stack development, and powerful data engineering solutions.
-
-### Artificial Intelligence & Machine Learning
+### Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
-![](https://img.shields.io/badge/LangChain-22C55E?style=flat&logo=chainlink&logoColor=white)
-![](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/Hugging_Face-FFD21C?style=flat&logo=huggingface&logoColor=black)
-![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Matplotlib-315DB6?style=flat&logo=matplotlib&logoColor=white)
-![](https://img.shields.io/badge/Seaborn-4378BF?style=flat&logo=seaborn&logoColor=white)
-
-### Data Engineering & Business Intelligence
-![](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![](https://img.shields.io/badge/ETL-6B6B6B?style=flat&logo=githubactions&logoColor=white) 
-![](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-
-### Backend, Cloud & DevOps
-![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat&logo=amazonsagemaker&logoColor=white)
-![](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Frontend & Game Development
+![](https://img.shields.io/badge/Java-F89820?style=flat&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/LangChain-22C55E?style=flat&logo=chainlink&logoColor=white)
+![](https://img.shields.io/badge/Hugging_Face-FFD21C?style=flat&logo=huggingface&logoColor=black)
+![](https://img.shields.io/badge/LangChain-22C55E?style=flat&logo=chainlink&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-315DB6?style=flat&logo=matplotlib&logoColor=white)
+![](https://img.shields.io/badge/Seaborn-4378BF?style=flat&logo=seaborn&logoColor=white)
+![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![](https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![](https://img.shields.io/badge/GenAI-Gemini_API-blueviolet?style=flat&logo=google&logoColor=white)
+![](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
+
+### Databases
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+
+### Visualization
+![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### Cloud & DevOps
+![](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![](https://img.shields.io/badge/AWS_Lambda-F7B93E?style=flat&logo=awslambda&logoColor=black)
+![](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
+![](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![](https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=flat&logo=amazoncloudwatch&logoColor=white)
+![](https://img.shields.io/badge/AWS_API_Gateway-FF4F00?style=flat&logo=amazonapigateway&logoColor=white)
+![](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat&logo=amazonsagemaker&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### Frontend & Game Development
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 ---
 
-## 💡 Recent Projects (Data, AI & Automation)
+## 💡 Recent Projects (AI, Cloud & Automation)
 
-My work focuses on building functional systems. If you are interested in **AI Engineering, Multi-Agent Systems, or Deep Learning**, I invite you to check out these projects:
+My projects focus on **AI-driven automation**, **Generative AI**, and **cloud-based intelligent systems**.
 
-### 1. Multi-Agent 3D Assistant (Video Demo)
 
-A cutting-edge system that combines Large Language Models (LLMs) with interactive 3D graphics, using an AI agent orchestration architecture.
+### Multi-Agent 3D Assistant (Video Demo)
+An advanced AI assistant combining multiple models (Mistral, Gemini, Phi) with an interactive 3D avatar built in Three.js.  
+Uses a **Model–Context–Protocol (MCP)** architecture for multi-agent collaboration and is designed for AWS deployment.
 
-* **Stack:** Python, JavaScript, Gemini API, Ollama Mistral, Model–Context–Protocol (MCP), LangChain, Flask, Three.js.
-* **Click on the GIF to watch the YouTube video!**
+* **Stack:** Python, JavaScript, LangChain, Gemini API, Ollama Mistral, OpenAI Codex CLI, Flask, Three.js, AWS Lambda, API Gateway, S3  
+* **Repository:** [MultiAgent-3DAssistant](https://github.com/PoeMadara/MultiAgent-3DAssistant)
 
 <p align="left">
     <a href="https://www.youtube.com/watch?v=hfBQZ5cOjtA">
@@ -82,43 +101,45 @@ A cutting-edge system that combines Large Language Models (LLMs) with interactiv
     </a>
 </p>
 
+---
 
-### 2. Enterprise Resource Planning System (ERP)
+### ERP System with Generative AI
+A full-stack ERP platform designed for **AI-enhanced business automation**.  
+Currently hosted on Firebase, and ready for AWS deployment using **EC2 (frontend)**, **S3 (storage)**, **DynamoDB (database)**, and **Lambda (backend automation)**.
 
-A **Full Stack** solution for business management that integrates generative AI capabilities for intelligent resource handling.
-
-* **Stack:** TypeScript, Next.js, React, Node.js, Gemini API, GenKit, Firebase, Tailwind CSS.
+* **Stack:** TypeScript, Next.js, React, Tailwind CSS, Gemini API, GenKit, Firebase, AWS EC2, S3, DynamoDB, Lambda  
 * **Repository:** [nextjs-erp-system](https://github.com/PoeMadara/nextjs-erp-system)
-
 
 <p align="left">
     <a href="https://github.com/PoeMadara/nextjs-erp-system">
-    <img src="https://github.com/user-attachments/assets/6a9c1177-d0a4-4d94-9e0e-2643a3b0763a" alt="ERP System Video/GIF" width="500">
+        <img src="https://github.com/user-attachments/assets/6a9c1177-d0a4-4d94-9e0e-2643a3b0763a" alt="ERP System Video/GIF" width="500">
+    </a>
 </p>
 
+---
 
-### 3. Sustainable Energy Analysis Platform “SEAP”
+### Sustainable Energy Analysis Platform “SEAP”
+A predictive analytics platform for **renewable energy forecasting** using ML and DL models.  
+Designed for scalability with **AWS SageMaker (model training)**, **Redshift (data analysis)**, and **S3 (storage)**.
 
-A Data Science project focused on the analysis and prediction of energy consumption using Machine Learning and Deep Learning.
-
-* **Stack:** Python, Machine Learning (Random Forest), Deep Learning (RNN), Keras, TensorFlow, Pandas, Numpy Seaborn, Matplotlib, Folium.
+* **Stack:** Python, TensorFlow, Keras, Scikit-learn, Pandas, Numpy, Seaborn, Matplotlib, Folium, AWS SageMaker, Redshift, S3  
 * **Repository:** [Sustainable-Energy-Analysis-Platform](https://github.com/PoeMadara/Sustainable-Energy-Analysis-Platform)
 
 <p align="left">
     <a href="https://github.com/PoeMadara/Sustainable-Energy-Analysis-Platform">
-    <img src="https://github.com/user-attachments/assets/2a74addd-9b7e-403c-8d78-ca3bcb411d4e" alt="SEAP Quick Overview GIF" width="500px">
+        <img src="https://github.com/user-attachments/assets/2a74addd-9b7e-403c-8d78-ca3bcb411d4e" alt="SEAP Quick Overview GIF" width="500px">
+    </a>
 </p>
 
 ---
 
 ### 🎮 Additional Experience: Video Game Development
+As **Co-Founder & AI Developer** at *Crazy Devs 8*, I combined creativity and AI, leading development in Unity and C#.
 
-As a **Co-Founder and Video Game Developer** at Crazy Devs 8 (Oct. 2023 - Feb. 2025), I applied my technical skills in a creative environment.
-
-* **Technical Leadership:** Led a multidisciplinary team, overseeing project development.
-* **Applied AI:** Implemented **enemy AI** with dynamic behaviors using C#.
-* **Graphic Development:** Used **Blender** for 3D modeling and animation, and participated in UI/UX design.
-* **Featured Project:** Contributed to the development of the video game *Peach City - Anti-MálagaJam18* (Unity), demonstrating the ability to work under pressure in game jams.
+* Implemented adaptive **enemy AI systems** with dynamic behaviors.  
+* Modeled and animated assets in **Blender**, integrated with Unity Engine.  
+* Designed immersive gameplay loops and responsive UIs.  
+* Featured project: *Peach City – Anti-MálagaJam18* (48-hour game jam).
 
 #### 🕹️ My Games Portfolio
 
@@ -138,4 +159,3 @@ A dedicated repository showcasing my experience as a **Co-Founder and Game Devel
 
 > *Linkedin:* https://www.linkedin.com/in/carlosvergaragamez/ <br>
 > *Email:* carlos.poemadara@gmail.com
-
