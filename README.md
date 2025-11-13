@@ -1,14 +1,14 @@
 <p align="center">
-    <img width="450" height="350" alt="Resilience" src="https://github.com/user-attachments/assets/4721c0cd-e6fc-4e98-9213-9ebdc3195781" />
+    <img width="450" height="350" alt="Resilience" src="https://github.com/user-attachments/assets/4721c0cd-e6fc-4e98-9213-9ebdc3195781" />
 </p>
 
 # <p align="center">Carlos Vergara Gámez: AI Data Engineer</p>
 
-*"From Hospitality to High-Tech: I build intelligent, cloud-ready systems that combine automation, data, and generative AI."*
+*"From data flows to embedded software: I merge generative AI and edge computing to create full-stack intelligent systems with real-world impact."*
 
-I am a **Python Developer** dedicated to **Deep Learning**, **Machine Learning**, and **Data Automation (ETL)**. My career pivot was driven by a passion for building intelligent solutions, leveraging my foundation in **problem-solving** and **critical thinking**. My background blends **data engineering, model deployment, and cloud integration** transforming complex information into scalable, intelligent systems.
+I am an AI Engineer specializing in taking intelligent systems from concept to software, including embedded systems. My work focuses on applied AI and advanced technology, combining generative AI (RAG/LangChain) with embedded software (C++/Firmware) and data automation (ETL/PySpark). I manage the entire technology stack, from the sensor interface to the cloud (AWS), to transform complex data flows into scalable and deployable solutions.
 
-Beyond algorithms, I **conduct AI workshops** for international audiences and am the **Co-Founder of Crazy Devs 8**, where I merge AI with game development, 3D design, and procedural creativity.
+Beyond algorithms, I have a strong entrepreneurial drive and am passionate about experimenting with cutting-edge technologies. I occasionally lead AI workshops for international audiences and am a co-founder of Crazy Devs 8, where I merge AI-generated content with game development and 3D design.
 
 ---
 
@@ -25,6 +25,7 @@ My current stack aligns with modern AI and Data Engineering pipelines, combining
 
 ### Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-F89820?style=flat&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -52,7 +53,6 @@ My current stack aligns with modern AI and Data Engineering pipelines, combining
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 
 ### Visualization
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -61,16 +61,11 @@ My current stack aligns with modern AI and Data Engineering pipelines, combining
 ### Cloud & DevOps
 ![](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![](https://img.shields.io/badge/AWS_Lambda-F7B93E?style=flat&logo=awslambda&logoColor=black)
-![](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white)
-![](https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![](https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=flat&logo=amazoncloudwatch&logoColor=white)
-![](https://img.shields.io/badge/AWS_API_Gateway-FF4F00?style=flat&logo=amazonapigateway&logoColor=white)
 ![](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat&logo=amazonsagemaker&logoColor=white)
+![](https://img.shields.io/badge/AWS%20IoT%20Core-333333?style=flat&logo=amazon&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ### Frontend & Game Development
 ![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -78,7 +73,7 @@ My current stack aligns with modern AI and Data Engineering pipelines, combining
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
 ![](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 ---
